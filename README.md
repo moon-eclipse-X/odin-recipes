@@ -5,7 +5,7 @@ Welcome to my very first published website. On this site, I showcase a collectio
 
 Right now, the project is built using **pure HTML**, but I will be adding **CSS** later to style it and make it look amazing!
 
-I've already published my site, you can visit it here: [odin-recipes](https://github.io).
+I've already published my site, you can visit it here: [odin-recipes]( https://moon-eclipse-x.github.io/odin-recipes/).
 
 ---
 
